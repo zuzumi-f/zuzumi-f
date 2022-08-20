@@ -1,5 +1,5 @@
 Support my little works
-[feed me~]
+[feed me~][![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5EI7GP)
 
 zuzumi
 
