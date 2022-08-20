@@ -1,4 +1,4 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/79029257/185763262-2fc8bf77-b9d1-425f-8f88-27c4d7335edb.png" style="border-radius:8px"></a>
+<img src="https://user-images.githubusercontent.com/79029257/185763262-2fc8bf77-b9d1-425f-8f88-27c4d7335edb.png" style="border-radius:8px"/></a>
 
 <p align="center">
   <a href="https://ko-fi.com/P5P5EI7GP"><img src="https://ko-fi.com/img/githubbutton_sm.svg">
