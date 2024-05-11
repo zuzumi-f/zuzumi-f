@@ -2,9 +2,9 @@
 
 <a href="https://discord.com/users/437579806616322049"><img align="left" src="https://lanyard.cnrad.dev/api/437579806616322049"/></a>
 
-## 📍 Support my little works [[feed me~]](https://www.paypal.me/hurtyoutube)
+**📍 Support my little works [[feed me~]](https://www.paypal.me/hurtyoutube)**
 
-I just have some BetterDiscord themes <br/>The money will go to my stomach (i hope...) <br/><br/>I'm not devoting all my time to github, but if you want to support me with this projects and motivate me it would be great
+I just have some BetterDiscord themes <br/>The money will go to my stomach (i hope...) <br/><br/>I'm not devoting all my time to github, but if you want to support, whatever this is, it would be great
 
   
 <p align="right">
