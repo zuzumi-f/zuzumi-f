@@ -1,6 +1,6 @@
 <a href='https://www.youtube.com/@realMokocchi'><img src="https://user-images.githubusercontent.com/79029257/185763262-2fc8bf77-b9d1-425f-8f88-27c4d7335edb.png">
 
-<a href="https://discord.com/users/437579806616322049"><img align="left" src="https://api.lanyard.rest/v1/users/437579806616322049"/></a>
+<a href="https://discord.com/users/437579806616322049"><img align="left" src="https://lanyard.cnrad.dev/api/437579806616322049"/></a>
 
 **📍 Support my little works [[feed me~]](https://www.paypal.me/konazumi)**
 
