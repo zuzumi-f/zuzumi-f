@@ -2,6 +2,6 @@
 
 <a href="https://discord.com/users/437579806616322049"><img align="left" src="https://lanyard.cnrad.dev/api/437579806616322049"/></a>
 
-~**📍 Support my little works [[feed me~]](https://www.paypal.me/konazumi)**~
+**📍 freaking help me guhhhhh [[send me 30000 vbucks]](https://ko-fi.com/sweet_m0chi)**
 
-I just have some BetterDiscord themes <br/>The money will go to my stomach <br/><br/>I'm not devoting all my time to github, but if you want to support, whatever this is, it would be great
+For now just one discord theme for BD and Vencord <br/>I am desperate for some money <br/><br/>what if I say pretty pretty please...
